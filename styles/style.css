@@ -3,10 +3,6 @@ html {
 }
 
 .page {
-  /*
-  inline-size: 1200px;
-  block-size: 100%;
-  */
   max-width: 1200px;
   margin: 0 auto;
   padding: 133px 30px;
