@@ -60,7 +60,7 @@ html {
   display: flex;
   flex-direction: column;
   row-gap: 32px;
-  max-height: 298px; /*подумать как сделать лучше*/
+  max-height: 298px;
   margin: 28px 0 0;
   padding: 0;
   overflow-y: scroll;
@@ -202,7 +202,7 @@ html {
   background-color: inherit;
   border: none;
   border-top: 1px solid #fff;
-  border-bottom: 1px solid #fff;  /*Сделать шорт-катом*/
+  border-bottom: 1px solid #fff;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
