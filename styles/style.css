@@ -163,7 +163,7 @@ html {
 
 .search-form {
   display: grid;
-  grid-template-columns: 31.6% 29.9% 27.3%;
+  grid-template-columns: 31.7% 29.9% 27.2%;
   justify-content: space-between;
 }
 
@@ -219,7 +219,7 @@ html {
 
 .search-form__checkbox-list {
   display: flex;
-  column-gap: 15px;
+  column-gap: 16px;
 }
 
 .visually-hidden {
@@ -255,7 +255,7 @@ html {
   top: -2px;
   width: 17px;
   height: 17px;
-  margin: 3px 5px 0 0;
+  margin: 3px 6px 0 0;
   border: 1px solid #fff;
 }
 
