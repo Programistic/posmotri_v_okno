@@ -3,7 +3,11 @@ html {
 }
 
 .page {
+  display: flex;
+  align-items: center;
   max-width: 1200px;
+  min-height: 800px;
+  height: 100%;
   margin: 0 auto;
   padding: 133px 30px;
   box-sizing: border-box;
